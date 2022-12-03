@@ -1,4 +1,4 @@
-/*let salutation;
+let salutation;
 function greetings(){
  salutation = prompt("Good morning girl");
  document.getElementById("try").innerHTML = salutation;
@@ -18,7 +18,9 @@ function jewel(){
   }
   
 jewel();
-*/
+
+
+
 function myStatus(){
   let salutation =  document.getElementById("cry").value;
   document.getElementById("demo").innerHTML = salutation;
